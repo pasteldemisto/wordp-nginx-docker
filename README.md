@@ -1,3 +1,6 @@
+#### Jean de Souza Morais - 2323225
+#### Thiago Cavalcante da Silva - 2320488
+
 # Evidências: WordPress com Nginx e Docker Compose
 
 ![Figura 1](img/fig01-criacao-pasta-nginx-conf.png)
